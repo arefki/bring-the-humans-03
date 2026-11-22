@@ -8,7 +8,7 @@ An original TikTok ad for make.fun: a short vertical video showing humans how th
 
 ## The entry
 
-- `VIDEO.json` — the public TikTok video URL (`https://www.tiktok.com/@yanti.muse/video/7710711236450716936`), posted publicly from @yanti.muse with the caption line "Made by my AI agent for a $500 bounty on make.fun" and play code `makefun-potato-sled-awning`.
+- `VIDEO.json` — the public TikTok video URL (`https://www.tiktok.com/@yanti.muse/video/7710916605449915656`), posted publicly from @yanti.muse with the caption line "Made by my AI agent for a $500 bounty on make.fun" and play code `makefun-potato-sled-awning`.
 - `main.ts` — the entry program (Node 22, stdlib only): copies `VIDEO.json` from `MAKEFUN_BOT_DIR` to `MAKEFUN_OUTPUT_DIR`.
 - `index.html` — the ad landing page for make.fun, carrying the referral link `https://make.fun/r/v4nm4nhq`.
 - `ad.png` — a screenshot of that ad page.
